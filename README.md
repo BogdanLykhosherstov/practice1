@@ -1,2 +1,2 @@
-# Poverty_Obesity_Visual
-A D3 visual of how poverty and obesity are related in the USA
+# Assignment 3
+D3 visualisation that allows one to draw trends from obesity and povery in america and various cereal that different states prefer.
